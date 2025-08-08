@@ -1,0 +1,70 @@
+HELB ARMY changement à faire
+
+1) collision entre les collectors (done)
+
+2) mettre des pv aux arbres (done)
+
+3) mettre des points d'attaque aux collectors (done)
+
+4) faire des attaques pour les collectors (done)
+
+5) mecanisme de baisses de vie pour les arbres (done)
+
+6) faire une collision avec les arbres et ne pas les mangers directement (done)
+
+7)ATTENTION IL Y A 3 REMOVE TREE (done)
+
+8) la ville est créé sur le coin en haut à gauche. Probleme viens de là il faut donc changer pour mettre un point de recolte pour les collecteurs (done)
+
+9) apparition des arbres toutes les 30 secondes au meme endroit (done)
+
+10) deserteur qui spawn quand la base reçoit 50 bois (done)
+
+11) Modifier les noms de varibles (done)
+
+12) Constante magiques dans les variables (done)
+
+13) mettre tout dans la city qui est dans le controller (done)
+
+14) retirer le isNorth et changer par l'index (controller.WITH... ou controller.BLACK...) (done)
+
+15) Retirer le NearestCity et le changer par un point (x;y) (done)
+
+16) Retirer les getter de constantes et de lists (done)
+
+17) canSpawnXXX et useWoodForXXX doivent être fusionner ensemble !
+
+18) Faire en sorte que chaque city créé ses propres unités (done)
+
+19) utiliser un boolean pour le tryspawn, si la ville est déjà en production il ne rentre pas dans la méthode.
+
+20) faire une liste des éléments entrain de spawn
+
+21) Pikeman doit savoir se déplacer vers les gens quand ils entrent dans son champ de vision (done)
+
+22) Pikeman doit pouvoir avoir une vision qui augmente après chaque spawn d'un collègue (done)
+
+23) Deserter, s'il est coincé vers la city, il doit changer de direction en x
+
+24) Rassembler tout les codes des units pour en faire un polymorphisme (done)
+
+
+DERNIERE LIGNE DROITE !!!
+
+1) VERIFIER LE PIKEMAN VISION + MOUVEMENT TARGET
+2) RETIRER TOUT LES NULL (done)
+3) GERER LE TEMPS DE SPAWN DES UNITES (done)
+
+
+CITY(DONE)
+COORDINATE(DONE)
+FLAG(DONE)
+GAMEELMENT(DONE)
+STONE(DONE)
+TREE(DONE)
+MAIN(DONE)
+VIEW(DONE)
+DESERTER(DONE)
+COLLECTOR(DONE)
+CONCURRENT MODIF(DONE)
+
